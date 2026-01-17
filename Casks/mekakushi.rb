@@ -1,8 +1,8 @@
 cask "mekakushi" do
   version "0.1.5"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "0f35db1bb0d4e899bd0812cf0af8997bcd2da43fc1702ec0157d334220fc1e97"
 
-  url "https://github.com/khmoryz/mekakushi/releases/download/v#{version}/Mekakushi-darwin-arm64-#{version}.zip"
+  url "https://github.com/khmoryz/mekakushi/releases/download/v#{version}/Mekakushi-0.1.0-arm64-mac.zip"
   name "Mekakushi"
   desc "Screen recording tool with privacy protection for sensitive information"
   homepage "https://github.com/khmoryz/mekakushi"
