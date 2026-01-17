@@ -1,6 +1,6 @@
 cask "mekakushi" do
-  version "0.1.5"
-  sha256 "0f35db1bb0d4e899bd0812cf0af8997bcd2da43fc1702ec0157d334220fc1e97"
+  version "0.1.6"
+  sha256 "fd730fa8cc492779ce72d27d1034f10413c191c6795ba325480b9644f4dee41b"
 
   url "https://github.com/khmoryz/mekakushi/releases/download/v#{version}/Mekakushi-0.1.0-arm64-mac.zip"
   name "Mekakushi"
